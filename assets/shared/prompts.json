@@ -1,0 +1,174 @@
+{
+  "prompts": [
+    {
+      "id": "food-1",
+      "text": "Pineapple on pizza",
+      "category": "food",
+      "isCustom": false
+    },
+    {
+      "id": "food-2",
+      "text": "Sushi",
+      "category": "food",
+      "isCustom": false
+    },
+    {
+      "id": "food-3",
+      "text": "Coffee",
+      "category": "food",
+      "isCustom": false
+    },
+    {
+      "id": "food-4",
+      "text": "Spicy food",
+      "category": "food",
+      "isCustom": false
+    },
+    {
+      "id": "travel-1",
+      "text": "Camping",
+      "category": "travel",
+      "isCustom": false
+    },
+    {
+      "id": "travel-2",
+      "text": "Cruise vacations",
+      "category": "travel",
+      "isCustom": false
+    },
+    {
+      "id": "travel-3",
+      "text": "Road trips",
+      "category": "travel",
+      "isCustom": false
+    },
+    {
+      "id": "travel-4",
+      "text": "Solo travel",
+      "category": "travel",
+      "isCustom": false
+    },
+    {
+      "id": "social-1",
+      "text": "Social media",
+      "category": "social",
+      "isCustom": false
+    },
+    {
+      "id": "social-2",
+      "text": "Nightclubs",
+      "category": "social",
+      "isCustom": false
+    },
+    {
+      "id": "social-3",
+      "text": "Small talk",
+      "category": "social",
+      "isCustom": false
+    },
+    {
+      "id": "social-4",
+      "text": "Group activities",
+      "category": "social",
+      "isCustom": false
+    },
+    {
+      "id": "romance-1",
+      "text": "Public displays of affection",
+      "category": "romance",
+      "isCustom": false
+    },
+    {
+      "id": "romance-2",
+      "text": "Long-distance relationships",
+      "category": "romance",
+      "isCustom": false
+    },
+    {
+      "id": "romance-3",
+      "text": "Marriage",
+      "category": "romance",
+      "isCustom": false
+    },
+    {
+      "id": "romance-4",
+      "text": "Dating apps",
+      "category": "romance",
+      "isCustom": false
+    },
+    {
+      "id": "entertainment-1",
+      "text": "Reality TV",
+      "category": "entertainment",
+      "isCustom": false
+    },
+    {
+      "id": "entertainment-2",
+      "text": "Video games",
+      "category": "entertainment",
+      "isCustom": false
+    },
+    {
+      "id": "entertainment-3",
+      "text": "Reading",
+      "category": "entertainment",
+      "isCustom": false
+    },
+    {
+      "id": "entertainment-4",
+      "text": "Dancing",
+      "category": "entertainment",
+      "isCustom": false
+    },
+    {
+      "id": "values-1",
+      "text": "Religion",
+      "category": "values",
+      "isCustom": false
+    },
+    {
+      "id": "values-2",
+      "text": "Politics",
+      "category": "values",
+      "isCustom": false
+    },
+    {
+      "id": "values-3",
+      "text": "Career vs. family",
+      "category": "values",
+      "isCustom": false
+    },
+    {
+      "id": "values-4",
+      "text": "Money management",
+      "category": "values",
+      "isCustom": false
+    }
+  ],
+  "categories": {
+    "food": {
+      "name": "Food & Drink",
+      "icon": "🍽️"
+    },
+    "travel": {
+      "name": "Travel & Adventure",
+      "icon": "✈️"
+    },
+    "social": {
+      "name": "Social & Lifestyle",
+      "icon": "🎉"
+    },
+    "romance": {
+      "name": "Romance & Intimacy",
+      "icon": "💖"
+    },
+    "entertainment": {
+      "name": "Entertainment & Hobbies",
+      "icon": "🎧"
+    },
+    "values": {
+      "name": "Values & Deep Talk",
+      "icon": "🧠"
+    }
+  }
+} 
